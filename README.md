@@ -12,3 +12,4 @@
 - [Python Developer’s Guide](https://devguide.python.org/)
 - [Python2.5 VM a guided tour](https://troeger.eu/files/teaching/pythonvm08.pdf)
 - [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine)
+- [http://www.aleax.it/ut_pyadv.pdf](http://www.aleax.it/ut_pyadv.pdf)
